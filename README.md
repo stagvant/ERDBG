@@ -38,33 +38,29 @@
 
 ## Overworld debug camera
 
-In order to activate the debug camera you have to press
+In order to activate the debug camera you have to press\
 down left joystick while also pressing the cross button.
 
-This way it will detach camera from the character and
-freeze everything at place. While using debug camera
-you can press triangle to make a frame by frame step
+This way it will detach camera from the character and\
+freeze everything at place. While using debug camera\
+you can press triangle to make a frame by frame step\
 or press it indefinately to unfreeze everything.
 
-You quit can quit the debug camera by pressing
-left joystick while also pressing the cross button.
+You can quit the debug camera by pressing left\
+joystick while also pressing the cross button.
 
 ## TopMenuDebug option
 
-Pressing options button brings up the TopMenu.
-
-By moving the highlight to the bottom will look odd.
-
-Pressing that highlight will bring up the debug menu.
-
-Explore it yourself, it gives you the oportunity to do things
-
+Pressing options button brings up the TopMenu.\
+By moving the highlight to the bottom will look odd.\
+Pressing that highlight will bring up the debug menu.\
+Explore it yourself, it gives you the oportunity to do things\
 you couldn't otherwise do without resting at a site of grace.
 
 ## Battle state function
 
-By disabling the battle state checker you will be able to bring up the map
-without get interrupted by a boss or a mob this thought has a side effect
+By disabling the battle state checker you will be able to bring up the map\
+without get interrupted by a boss or a mob this thought has a side effect\
 as your stamina will never go down, mind you this will benefit your steed.
 
 ## RemoDebug function
@@ -73,15 +69,10 @@ With RemoDebug you can pause cutscenes at will by pressing cross.
 
 ## Known Bugs and Issues
 
-
-For an unknown reason RemoDebug doesn't work properly on retail version 1.00.0.
-
-TopMenuDebug doesn't work on versions higher than 1.03.2 related to the constructor.
-
-Although you have full freedom where you can fast travel to I strongly advise of using it
-
-wisely as there are some serious bugs if you teleport from the very start of the game.
-
+For an unknown reason RemoDebug doesn't work properly on retail version 1.00.0.\
+TopMenuDebug doesn't work on versions higher than 1.03.2 related to the constructor.\
+Although you have full freedom where you can fast travel to I strongly advise of using it\
+wisely as there are some serious bugs if you teleport from the very start of the game.\
 Also do not fast travel to catacombs because you will get trapped if an area boss exists.
 
 ## Requirements
@@ -109,8 +100,7 @@ Without your toolchains I wouldn't be able to distribute my patches!
 
 ## Disclaimer
 
-The source of ERDBG is currently private due to potential improper use.
-
+The source of ERDBG is currently private due to potential improper use.\
 Although there might be an attempt of reconsidering in the future.
 
 ## License
