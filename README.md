@@ -53,6 +53,7 @@ joystick while also pressing the cross button.
 
 Pressing options button brings up the TopMenu.\
 By moving the highlight to the bottom will look odd.\
+![ER0](https://user-images.githubusercontent.com/131619524/233867577-749ab42c-5aa4-4b23-8916-3dab368875c8.jpg)
 Pressing that highlight will bring up the debug menu.\
 Explore it yourself, it gives you the oportunity to do things\
 you couldn't otherwise do without resting at a site of grace.
