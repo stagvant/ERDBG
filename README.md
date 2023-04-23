@@ -78,7 +78,8 @@ Also do not fast travel to catacombs because you will get trapped if an area bos
 
 ## Requirements
 
-[Goldhen 2.3+](https://github.com/Goldhen/Goldhen) running on a Playstation4 system
+- [Goldhen 2.3+](https://github.com/Goldhen/Goldhen) running on a Playstation4 system
+- Knowledge on how to setup a plugin to run properly
 
 ## Toolchains used
 
