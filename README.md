@@ -76,6 +76,7 @@ By moving the highlight to the bottom will look odd.
 Pressing that highlight will bring up the debug menu.
 
 Explore it yourself, it gives you the oportunity to do things
+
 you couldn't otherwise do without resting at a site of grace.
 
 ## Battle state function
