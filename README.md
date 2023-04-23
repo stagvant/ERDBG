@@ -2,57 +2,39 @@
 
 ## Versions supported
 
-Application Version:1.00.0
-
-Application Version:1.03.2
-
-Application Version:1.05.0
-
-Application Version:1.06.0
-
-Application Version:1.07.0
-
-Application Version:1.08.0
-
-Application Version:1.08.1
-
-Application Version:1.09.0
+- Application Version:1.00.0
+- Application Version:1.03.2
+- Application Version:1.05.0
+- Application Version:1.06.0
+- Application Version:1.07.0
+- Application Version:1.08.0
+- Application Version:1.08.1
+- Application Version:1.09.0
 
 ## Releases supported
 
 #### Elden Ring Network Test
 
-CUSA18880 America
+- CUSA18880 America
 
 #### Elden Ring Retail
 
-CUSA18581 Japan
-
-CUSA18723 Europe
-
-CUSA28527 Australia
-
-CUSA28863 America
+- CUSA18581 Japan
+- CUSA18723 Europe
+- CUSA28527 Australia
+- CUSA28863 America
 
 ## Features
 
-Modifies Elden Ring a FromSoftware game before boot.
-
-Completely unlocks landmarks and borders on the map.
-
-Completely unlocks all sites of graces from the very start.
-
-Activates a way to enable the debug camera with combo.
-
-Activates a way to pause cutscenes from the gamepad.
-
-Battle state has been modified allowing some fun stuff.
-
-Activates TopMenuDebug in the options menu.
-
-Additionally framepacing issues where fixed.
-
-Redirected a register to grant infinite runes.
+- Modifies Elden Ring a FromSoftware game before boot.
+- Completely unlocks landmarks and borders on the map.
+- Completely unlocks all sites of graces from the very start.
+- Activates a way to enable the debug camera with combo.
+- Activates a way to pause cutscenes from the gamepad.
+- Battle state has been modified allowing some fun stuff.
+- Activates TopMenuDebug in the options menu.
+- Additionally framepacing issues where fixed.
+- Redirected a register to grant infinite runes.
 
 ## Overworld debug camera
 
