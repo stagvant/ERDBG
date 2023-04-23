@@ -97,6 +97,7 @@ For an unknown reason RemoDebug doesn't work properly on retail version 1.00.0.
 TopMenuDebug doesn't work on versions higher than 1.03.2 related to the constructor.
 
 Although you have full freedom where you can fast travel to I strongly advise of using it
+
 wisely as there are some serious bugs if you teleport from the very start of the game.
 
 Also do not fast travel to catacombs because you will get trapped if an area boss exists. 
