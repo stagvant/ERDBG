@@ -20,11 +20,11 @@ Application Version:1.09.0
 
 ## Releases supported
 
-### Elden Ring Network Test
+#### Elden Ring Network Test
 
 CUSA18880 America
 
-### Elden Ring Retail
+#### Elden Ring Retail
 
 CUSA18581 Japan
 
