@@ -100,10 +100,7 @@ Although you have full freedom where you can fast travel to I strongly advise of
 
 wisely as there are some serious bugs if you teleport from the very start of the game.
 
-Also do not fast travel to catacombs because you will get trapped if an area boss exists. 
-
-A very good example is the Divine Tower of West Altus which shares the no travel flag
-from a nearby catacomb area boss.
+Also do not fast travel to catacombs because you will get trapped if an area boss exists.
 
 ## Requirements
 
