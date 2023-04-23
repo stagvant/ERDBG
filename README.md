@@ -33,8 +33,8 @@
 - Activates a way to pause cutscenes from the gamepad.
 - Battle state has been modified allowing some fun stuff.
 - Activates TopMenuDebug in the options menu.
-- Additionally framepacing issues where fixed.
-- Redirected a register to grant infinite runes.
+- Additionally framepacing issues were fixed.
+- Redirected register to grant infinite runes.
 
 ## Overworld debug camera
 
