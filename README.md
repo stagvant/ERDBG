@@ -100,11 +100,6 @@ Without your toolchains I wouldn't be able to distribute my patches!
 - [Patreon](https://www.patreon.com/stagvant)
 - [Buy me a Coffee](https://www.buymeacoffee.com/stagvant)
 
-## Disclaimer
-
-The source of ERDBG is currently private due to potential improper use.\
-Although there might be an attempt of reconsidering in the future.
-
 ## License
 
 ERDBG is released under the [GPLv3 License](https://github.com/stagvant/ERDBG/blob/main/LICENSE).
