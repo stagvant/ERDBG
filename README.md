@@ -92,8 +92,6 @@ Also do not fast travel to catacombs because you will get trapped if an area bos
 - [Everyone at OpenOrbis Team](https://github.com/OpenOrbis)
 - [Everyone at Goldhen Team](https://github.com/Goldhen)
 
-Without your toolchains I wouldn't be able to distribute my patches!
-
 ## Consider donating
 
 - [Ko-fi](https://ko-fi.com/stagvant)
