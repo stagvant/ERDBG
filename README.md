@@ -2,14 +2,14 @@
 
 ## Versions supported
 
-- Application Version:1.00.0
-- Application Version:1.03.2
-- Application Version:1.05.0
-- Application Version:1.06.0
-- Application Version:1.07.0
-- Application Version:1.08.0
-- Application Version:1.08.1
-- Application Version:1.09.0
+- Application version:1.00.0
+- Application version:1.03.2
+- Application version:1.05.0
+- Application version:1.06.0
+- Application version:1.07.0
+- Application version:1.08.0
+- Application version:1.08.1
+- Application version:1.09.0
 
 ## Releases supported
 
