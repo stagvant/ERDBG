@@ -94,9 +94,8 @@ Also do not fast travel to catacombs because you will get trapped if an area bos
 
 ## Consider donating
 
-- [Ko-fi](https://ko-fi.com/stagvant)
-- [Patreon](https://www.patreon.com/stagvant)
-- [Buy me a Coffee](https://www.buymeacoffee.com/stagvant)
+- [Option1](https://ko-fi.com/stagvant)
+- [Option2](https://buymeacoffee.com/stagvant)
 
 ## License
 
