@@ -55,8 +55,7 @@ Pressing options button brings up the TopMenu.\
 By moving the highlight to the bottom will look odd.\
 ![ER0](https://user-images.githubusercontent.com/131619524/233867577-749ab42c-5aa4-4b23-8916-3dab368875c8.jpg)\
 Pressing that highlight will bring up the debug menu.\
-Explore it yourself, it gives you the oportunity to do things\
-you couldn't otherwise do without resting at a site of grace.
+Examinating further will allow gameplay exploitation.
 
 ## Battle state function
 
@@ -64,17 +63,16 @@ By disabling the battle state checker you will be able to bring up the map\
 without get interrupted by a boss or a mob this thought has a side effect\
 as your stamina will never go down, mind you this will benefit your steed.
 
-## RemoDebug function
+## RemoDebugPause function
 
-With RemoDebug you can pause cutscenes at will by pressing cross.
+Pauses cutscenes by pressing the cross button.
 
 ## Known Bugs and Issues
 
-For an unknown reason RemoDebug doesn't work properly on retail version 1.00.0.\
+For an unknown reason RemoDebugPause doesn't work properly on retail version 1.00.0.\
 TopMenuDebug doesn't work on versions higher than 1.03.2 related to the constructor.\
-Although you have full freedom where you can fast travel to I strongly advise of using it\
-wisely as there are some serious bugs if you teleport from the very start of the game.\
-Also do not fast travel to catacombs because you will get trapped if an area boss exists.
+Although you have full freedom where you can fast travel to I strongly advise of wise\
+usage as there are some serious bugs if you teleport from the very start of the game.
 
 ## Requirements
 
@@ -83,14 +81,15 @@ Also do not fast travel to catacombs because you will get trapped if an area bos
 
 ## Toolchains used
 
-- [LLVM 10](https://llvm.org/)
+- [LLVM 10](https://github.com/llvm/llvm-project)
 - [GoldHEN_Plugins_SDK](https://github.com/GoldHEN/GoldHEN_Plugins_SDK)
 - [OpenOrbis-PS4-Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain)
 
-## Credits
+## Toolchain authors
 
-- [Everyone at OpenOrbis Team](https://github.com/OpenOrbis)
-- [Everyone at Goldhen Team](https://github.com/Goldhen)
+- [The LLVM Team](https://github.com/llvm)
+- [The Goldhen Team](https://github.com/Goldhen)
+- [The OpenOrbis Team](https://github.com/OpenOrbis)
 
 ## Consider donating
 
