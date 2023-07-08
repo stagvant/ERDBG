@@ -27,56 +27,34 @@
 ## Features
 
 - Modifies Elden Ring a FromSoftware game before boot.
-- Completely unlocks landmarks and borders on the map.
-- Completely unlocks all sites of graces from the very start.
-- Activates a way to enable the debug camera with combo.
-- Activates a way to pause cutscenes from the gamepad.
-- Battle state has been modified allowing some fun stuff.
-- Activates TopMenuDebug in the options menu.
-- Additionally framepacing issues were fixed.
-- Redirected register to grant infinite runes.
+- Revamps boot procedure in order to load model viewer.
+- Declares new functions to handle the debug draw crash.
 
-## Overworld debug camera
+## Model Viewer mode
 
-In order to activate the debug camera you have to press\
-down left joystick while also pressing the cross button.
+Boot procedure was changed to allow booting into the\
+model viewer a mode in which fromsoftware developers\
+review thousands of assets used on game development.
 
-This way it will detach camera from the character and\
-freeze everything at place. While using debug camera\
-you can press triangle to make a frame by frame step\
-or press it indefinately to unfreeze everything.
+Depending the release of the game model viewer might\
+take up to five minutes to load all the assets or a few\
+seconds if used on the network test build of eldenring.
 
-You can quit the debug camera by pressing left\
-joystick while also pressing the cross button.
-
-## TopMenuDebug option
-
-Pressing options button brings up the TopMenu.\
-By moving the highlight to the bottom will look odd.\
-![ER0](https://user-images.githubusercontent.com/131619524/233867577-749ab42c-5aa4-4b23-8916-3dab368875c8.jpg)\
-Pressing that highlight will bring up the debug menu.\
-Examinating further will allow gameplay exploitation.
-
-## Battle state function
-
-By disabling the battle state checker you will be able to bring up the map\
-without get interrupted by a boss or a mob this thought has a side effect\
-as your stamina will never go down, mind you this will benefit your steed.
-
-## RemoDebugPause function
-
-Pauses cutscenes by pressing the cross button.
+Specifically one can review all the entities and objects\
+as well as create custom textlists for crossreferencing.
 
 ## Known Bugs and Issues
 
-For an unknown reason RemoDebugPause doesn't work properly on retail version 1.00.0.\
-TopMenuDebug doesn't work on versions higher than 1.03.2 related to the constructor.\
-Although you have full freedom where you can fast travel to I strongly advise of wise\
-usage as there are some serious bugs if you teleport from the very start of the game.
+Model viewer is completely operational on every major version and release of the game\
+though due to an unknown bug on versions higher than 1.03.2 they fail loading the assets.\
+Please bear in mind that while reviewing asset lists do not for whatever reason press circle\
+as you will get kicked out of the model viewer and game stucks into a black screen indefinitely.
 
 ## Requirements
 
 - [Goldhen 2.3+](https://github.com/Goldhen/Goldhen) running on a Playstation4 system
+- [Fonts and shaders](https://drive.proton.me/urls/VKYP8GRS98#s6lRD1ulS5Vh) for model viewer asset menu
+- Knowledge on how to make a backup copy of a game
 - Knowledge on how to setup a plugin to run properly
 
 ## Toolchains used
